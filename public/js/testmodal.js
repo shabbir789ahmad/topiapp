@@ -1,0 +1,6 @@
+$(document).click(function(e){
+
+     
+
+
+});
